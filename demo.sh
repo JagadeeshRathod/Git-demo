@@ -6,3 +6,5 @@ b=20
 
 # Add the two numbers and print the result
 echo $((a + b))
+# Sub 
+echo $((a - b))
